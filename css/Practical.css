@@ -1,0 +1,26 @@
+﻿body 
+{
+   background-color: #b2beb5;
+   color: #FFFFFF;
+   margin: 0px;
+   padding: 0px;
+}
+
+h1, h2, h3, h4, h5, h6, th
+{
+color:#FFFFFF;
+}
+
+.caption{font-weight: bold; color: maroon;}
+.greeting {font-size:34pt; font-weight:bold;}
+.content {font-size:14pt;}
+.invoice 
+{
+	background-color: white;	
+}
+
+#invoice td, th{padding: 6px; border: 1px solid maroon;}
+#invoice {border-spacing: 0px; border: 1px solid maroon; width:100%;}
+
+#IDates{margin:auto; border:3px solid red; border-spacing:0px;}
+#IDates td, th{border: 1px solid red;}
